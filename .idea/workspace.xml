@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2037da13-1884-4572-8edc-a2f0a06fb74b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/loan" beforeDir="false" afterPath="$PROJECT_DIR$/loan" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loan/java101.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loan/out/production/java101/com/company/Calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loan/out/production/java101/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loan/src/com/company/Calculate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loan/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loan/src/com/company/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loan/src/com/company/ProductManager.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jSN2Aci1mXCQmncLcCcKyqQ6s3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2037da13-1884-4572-8edc-a2f0a06fb74b" name="Default Changelist" comment="" />
+      <created>1603793323307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603793323307</updated>
+    </task>
+    <servers />
+  </component>
+</project>
