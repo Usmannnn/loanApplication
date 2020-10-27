@@ -41,8 +41,6 @@ public class LoanUpdateServiceImpl implements LoanUpdateService {
 
     @Override
     public LoanResultResponse updateCustomerLoanInfo(LoanResultRequest loanResultRequest) {
-        //kredi skoru servisine git, kredi skoru don
-
         if (loanResultRequest.getTcNo() == null){
             return null;
         }
@@ -50,10 +48,6 @@ public class LoanUpdateServiceImpl implements LoanUpdateService {
         LoanDto loanDto = loanLoadingService.getCustomerLoanInfo(loanResultRequest.getTcNo());
 
         Long calculationResult = loanCalculator.calculate(loanDto.getLoanScore(), loanDto.getMonthlyIncome());
-
-        if (calculationResult == null) {
-            return null;
-        }
 
         Document document = loanDtoToDocumentConverter.convert(loanDto, calculationResult);
 

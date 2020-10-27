@@ -20,10 +20,8 @@ public class LoanLoadingServiceImpl implements LoanLoadingService {
     @Override
     public LoanDto getCustomerLoanInfo(String tcNo) {
 
-        //DB'DEN TC KMLIK NO ILE KAYIT GETIR
         Document document = loanDao.findWithTc(tcNo);
 
-        System.out.println(document+ "scoreservis");
         return loanDocumentConverter.convert(document);
     }
 }
